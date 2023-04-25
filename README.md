@@ -1,2 +1,3 @@
-# GAME-OF-LIFE
-Conway's Game of Life
+**Conway's Game of Life**
+
+__by NeuralNine__
